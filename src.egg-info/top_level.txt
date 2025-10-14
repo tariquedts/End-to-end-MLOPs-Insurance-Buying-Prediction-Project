@@ -1,3 +1,4 @@
 End-to-end-MLOPs-Insurance-Buying-Prediction-Project
 config
+notebook
 src
